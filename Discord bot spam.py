@@ -33,3 +33,4 @@ def locate_chat(chat_name):
 if __name__ == "__main__":
     # Specify the chat/channel name to search for
     locate_chat("fishing")  # Replace "general" with the name of the chat you're looking for
+ishing
